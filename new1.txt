@@ -4,3 +4,4 @@ token変更220306a
 token確認220306b
 token期限切れ通知221224
 new_token221224
+new_token再確認
