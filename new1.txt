@@ -6,3 +6,4 @@ token期限切れ通知221224
 new_token221224
 new_token再確認
 new_token230419
+2FA済　2023.09.09
